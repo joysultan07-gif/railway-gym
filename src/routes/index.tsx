@@ -66,11 +66,13 @@ const memberships = [
     name: "Essential",
     note: "For members who want reliable gym access and a focused training environment.",
     label: "Membership details to be added",
+    featured: false,
   },
   {
     name: "Premium",
     note: "For members looking for additional training support.",
     label: "Membership details to be added",
+    featured: false,
   },
   {
     name: "Railway",
